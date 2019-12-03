@@ -1,0 +1,2 @@
+enable_redir
+mitm-ssh -v -n -p 2222
