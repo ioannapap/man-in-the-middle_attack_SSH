@@ -1,2 +1,3 @@
+rm -rf known_hosts 
 enable_redir
 mitm-ssh -v -n -p 2222
